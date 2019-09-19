@@ -1,0 +1,6 @@
+C:\Users\魏恩博\Desktop\Calculator\Websster\Websster\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\魏恩博\Desktop\Calculator\Websster\Websster\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\魏恩博\Desktop\Calculator\Websster\Websster\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\魏恩博\Desktop\Calculator\Websster\Websster\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\魏恩博\Desktop\Calculator\Websster\Websster\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\魏恩博\Desktop\Calculator\Websster\Websster\ConsoleApp1\obj\Release\ConsoleApp1.pdb
